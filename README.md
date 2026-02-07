@@ -2,6 +2,8 @@ Cursor Landing Page Recreation
 This project is a recreation of the Cursor website landing page using only HTML and CSS.
 
 Here is the screenshot
+<img width="1907" height="971" alt="Screenshot 2026-02-07 094802" src="https://github.com/user-attachments/assets/df6f02c9-35e0-4e79-8749-38bb340012e5" />
+
 📌 Sections Recreated
 The following sections were recreated based on the reference design:
 
